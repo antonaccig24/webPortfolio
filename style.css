@@ -13,6 +13,8 @@ height: 700px;}
 body{font-family: 'Share Tech', sans-serif;}
 
 h1,h2,h3,h4,h5{font-family: 'Share Tech', sans-serif;font-size: 2.25rem;}
+h1{color:rgb(235, 235, 237);}
+
 
 p{font-size: 1.5rem;
     color:white;}

@@ -38,3 +38,9 @@ height:auto;}
     1.5rem;
     width: 150px;
     height:50px;}
+
+/*Resize images in projects section*/
+.container img {
+    width: 100%;
+    height: auto;
+}

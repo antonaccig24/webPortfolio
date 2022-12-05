@@ -18,18 +18,25 @@ padding: 0;}
 
 /*font style, size, and color*/
 body{font-family: 'Share Tech', sans-serif;}
-h1{font-family: 'Share Tech', sans-serif;font-size: 3rem;}
-h2,h3,h4,h5{font-family: 'Share Tech', sans-serif;font-size: 2.25rem;}
+h1{font-family: 'Share Tech', sans-serif;font-size: 5vw;}
+h2,h3,h4,h5{font-family: 'Share Tech', sans-serif;font-size: 3vw;}
 h1,h2,h3,h4{color:rgb(235, 235, 237);}
 h5{color:rgb(22, 26, 27);}
-p{font-size: 1.5rem;
+p{font-size: 2vw;
     color:white;}
 
 /*Can't decide if I want nav bar left or right alinged. code:.navbar-nav{margin-left: auto;}*/
 
 /*image sizing*/
-img{max-width: 100%;
+#cover-photo{max-width: 100%;
 height:auto;}
+
+#backend{text-align:center;}
+#frontend{text-align:center;}
+#python-image{width:250px; height:250px;}
+#java-image{width:250px; height:250px;}
+#sql-image{width:250px; height:250px;}
+#c-image{width:250px; height:250px;}
 
 /*resume buttons*/
 .btn{background-color:rgb(53, 118, 246); 

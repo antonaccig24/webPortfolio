@@ -31,21 +31,14 @@ height:auto;}
 #backend{text-align:center;}
 #frontend{text-align:center;}
 
-
-#python-image{width:250px; height:200px;}
-#java-image{width:250px; height:200px;}
-#sql-image{width:250px; height:200px;}
-#c-image{width:250px; height:200px;}
-
-
-
 /*resume buttons*/
-.btn{background-color:rgb(53, 118, 246); 
+#btn1{background-color:rgb(53, 118, 246); 
     color:white; 
     font-size: 
     1.5rem;
     width: 150px;
     height:50px;}
+
 
 /*Resize images in projects section*/
 .container img {
@@ -55,4 +48,6 @@ height:auto;}
 #email{border-style:ridge;border-width:thick;margin-left:10px;margin-right:10px;} 
 #phone{border-style:ridge;border-width:thick;margin-left:10px;margin-right:10px;}  
 #linkedin{border-style:ridge;border-width:thick;margin-left:10px;margin-right:10px;}  
-#github{border-style:ridge;border-width:thick;margin-left:10px;margin-right:10px;}     
+#github{border-style:ridge;border-width:thick;margin-left:10px;margin-right:10px;}    
+
+#contactMeSection{padding-bottom:50px;}
